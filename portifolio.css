@@ -512,10 +512,10 @@ footer {
     margin-top: 20px;
   }
   .services{
-    background-image: url('images/bakground.jpg');
+    background-image: url('bakground.jpg');
   }
     .home {
-  background-image: url('images/back.jpg');
+  background-image: url('back.jpg');
   }
   swal-popup-responsive {
     max-width: 80vw;
@@ -525,3 +525,4 @@ footer {
 }
 
  
+

@@ -62,7 +62,7 @@ section {
   min-height: 100vh;
 }
 .home {
-  background-image: url('images/back.jpg');
+  background-image: url('back.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -192,7 +192,7 @@ section {
   display: block;
 }
 .services{
-  background-image:url(images/bakground.jpg);
+  background-image:url(bakground.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; 
@@ -272,7 +272,7 @@ section {
 }
 .projects {
   padding: 60px 10%;
-  background:url(images/still-life-books-versus-technology.jpg) no-repeat center center/cover;
+  background:url(still-life-books-versus-technology.jpg) no-repeat center center/cover;
   text-align: center;
 }
 .projects h2 {
@@ -523,4 +523,5 @@ footer {
     font-size: 15px;
   }
 }
+
  
